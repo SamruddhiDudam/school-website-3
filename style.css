@@ -1,0 +1,98 @@
+.ft {
+    font-family: open sans;
+    background-color: #adefd1;
+}
+
+.hdgtitle {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+.tttitle {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.mntitle {
+    color: ghostwhite;
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+#imgs {
+width: 100%;
+    height: 400px;
+}
+
+
+.float-container {
+    background-color: #00203F;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.accr {
+    height: 45px;
+    line-height: 45px;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}   
+
+.accr-arrow {
+    float: right;
+    padding-right: 20px;
+    line-height: 40px;
+}
+
+.img2 {
+    width: 300px;
+    height: 300px;
+}
+
+.try {
+  display: flex;
+}
+.imgg{
+    height: auto;
+    width: 420px;
+    
+}
+
+.titlebg{
+    background-color:00203F;
+        padding: 20px;
+}
+
+row1{
+    margin: 0px !important;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 40px;
+    color: ghostwhite;
+}
+.img3{
+     width: 300px;
+    height: 300px;
+    margin-left: 120px;
+}
+.textspl{
+    font-size: 30px; 
+}
